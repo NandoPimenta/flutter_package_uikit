@@ -1,6 +1,6 @@
 import 'package:easy_autocomplete/easy_autocomplete.dart';
 import 'package:flutter/material.dart';
-import 'package:package_utils/extensions/color/hex_color.dart';
+import 'package:package_uikit/theme/extensions/color/hex_color.dart';
 
 class AutoCompleteWidget extends StatelessWidget {
   const AutoCompleteWidget(
